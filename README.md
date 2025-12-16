@@ -11,11 +11,11 @@ Transforming complex business problems into data-driven solutions using **Python
 I'm a mechanical engineering graduate currently working as a **Technical Assistant — Associate Consulting at Hitachi Vantara**, where I've developed a deep expertise in data analytics, machine learning, and enterprise AI systems. My transition from mechanical engineering to data science is fueled by a passion for solving complex problems through data and AI.
 
 **What I bring to the table:**
-- 🤖 **AI & LLM Integration**: Multi-agent systems, prompt engineering, LangChain orchestration
-- 📊 **Data Science & Analytics**: Predictive modeling, feature engineering, business intelligence
-- 🐍 **Software Engineering**: Clean Python code, scalable architectures, production-ready systems
-- 🔧 **Domain Knowledge**: Engineering mindset + data-driven problem solving
-- 💼 **Enterprise Experience**: Building solutions for real business problems, not just Kaggle competitions
+- **AI & LLM Integration**: Multi-agent systems, prompt engineering, LangChain orchestration
+- **Data Science & Analytics**: Predictive modeling, feature engineering, business intelligence
+- **Software Engineering**: Clean Python code, scalable architectures, production-ready systems
+- **Domain Knowledge**: Engineering mindset + data-driven problem solving
+- **Enterprise Experience**: Building solutions for real business problems, not just Kaggle competitions
 
 **Currently exploring:** Multi-agent AI systems, advanced prompt engineering, cloud deployment, and generative AI applications.
 
@@ -87,21 +87,21 @@ A sophisticated enterprise system that detects employee burnout risk using machi
 
 ## What I'm Working On
 
-- 🤖 Advanced **multi-agent AI systems** with LangChain and function calling
-- 📊 Building **end-to-end data pipelines** (data ingestion → processing → ML → insights)
-- 🎯 Exploring **RAG (Retrieval-Augmented Generation)** for enterprise knowledge systems
-- ☁️ Deploying models to **Google Cloud Platform** and learning Docker containerization
-- 📚 Contributing to **open-source** projects in data science and AI
+- Advanced **multi-agent AI systems** with LangChain and function calling
+- Building **end-to-end data pipelines** (data ingestion → processing → ML → insights)
+- Exploring **RAG (Retrieval-Augmented Generation)** for enterprise knowledge systems
+- Deploying models to **Google Cloud Platform** and learning Docker containerization
+- Contributing to **open-source** projects in data science and AI
 
 ---
 
 ## Let's Connect!
 
 I'm passionate about:
-- 🔍 Solving real-world problems with data and AI
-- 👥 Collaborating with data enthusiasts and engineers
-- 📝 Sharing knowledge through documentation and blogs
-- 🌱 Mentoring others transitioning into data science
+- Solving real-world problems with data and AI
+- Collaborating with data enthusiasts and engineers
+- Sharing knowledge through documentation and blogs
+- Mentoring others transitioning into data science
 
 **Reach me at:**
 -  LinkedIn: [https://www.linkedin.com/in/rohith-geddam-035a16252](https://www.linkedin.com/in/rohith-geddam-035a16252)
