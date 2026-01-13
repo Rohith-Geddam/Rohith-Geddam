@@ -1,6 +1,6 @@
 # Hi, I'm Rohith Geddam
 
-**Data Scientist | AI/ML Engineer | Mechanical Engineer → Data Science**
+**Data Analyst |Data Scientist | AI/ML Engineer**
 
 Transforming complex business problems into data-driven solutions using **Python, Machine Learning, and LLM-based AI systems**. Passionate about building intelligent agents, predictive models, and analytics platforms that create real-world impact.
 
