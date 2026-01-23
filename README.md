@@ -66,14 +66,6 @@ A sophisticated enterprise system that detects employee burnout risk using machi
 
 ---
 
-## My GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohith-Geddam&show_icons=true&theme=dark&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Geddam&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Education & Certifications
 
 - **Degree:** Mechanical Engineering (B.Tech/B.E.)
