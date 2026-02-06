@@ -1,118 +1,200 @@
-# Hi, I'm Rohith Geddam
+# Hi, I'm Rohith Geddam 
 
-**Data Analyst |Data Scientist | AI/ML Engineer**
+### Data Analyst | Business & Product Analytics | Applied AI & ML
 
-Transforming complex business problems into data-driven solutions using **Python, Machine Learning, and LLM-based AI systems**. Passionate about building intelligent agents, predictive models, and analytics platforms that create real-world impact.
+I transform complex business problems into data-driven solutions using **SQL, Python, Machine Learning, and AI-driven analytics systems**. I focus on building analytics platforms, predictive models, and intelligent decision-support tools that create measurable business impact.
+
+---
+
+## Highlights
+
+- Built end-to-end analytics dashboards supporting executive business decision workflows  
+- Developed predictive ML models achieving **85–92% accuracy** across business use cases  
+- Designed AI-driven analytics agents generating automated business recommendations  
+- Built complete analytics pipelines from **raw data → cleaning → modeling → dashboards → insights**
 
 ---
 
 ## About Me
 
-I'm a mechanical engineering graduate currently working as a **Technical Assistant — Associate Consulting at Hitachi Vantara**, where I've developed a deep expertise in data analytics, machine learning, and enterprise AI systems. My transition from mechanical engineering to data science is fueled by a passion for solving complex problems through data and AI.
+I am a Mechanical Engineering graduate currently working as a **Technical Assistant — Associate Consulting at Hitachi Vantara**, contributing to data analytics and enterprise data solutions.
 
-**What I bring to the table:**
-- **AI & LLM Integration**: Multi-agent systems, prompt engineering, LangChain orchestration
-- **Data Science & Analytics**: Predictive modeling, feature engineering, business intelligence
-- **Software Engineering**: Clean Python code, scalable architectures, production-ready systems
-- **Domain Knowledge**: Engineering mindset + data-driven problem solving
-- **Enterprise Experience**: Building solutions for real business problems, not just Kaggle competitions
+My transition into analytics and AI comes from applying engineering problem-solving principles to business data challenges.
 
-**Currently exploring:** Multi-agent AI systems, advanced prompt engineering, cloud deployment, and generative AI applications.
+### Core Strengths
+- SQL-Driven Business Analytics & KPI Reporting  
+- Dashboard Development & Data Storytelling  
+- Predictive Modeling & Feature Engineering  
+- Applied AI & LLM Integration for Decision Support  
+- Translating technical analysis into business insights  
+
+I focus on solving **real business problems**, not just academic or competition datasets.
 
 ---
 
 ## Technical Skills
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | Python, SQL, JavaScript |
-| **Data & ML** | Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch |
-| **LLM & AI** | OpenAI API, Google Generative AI, LangChain, Prompt Engineering, RAG Systems |
-| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI, Tableau |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Cloud & Tools** | Google Cloud, Jupyter Notebooks, Git, Docker (learning) |
-| **Analytics** | Statistical Analysis, A/B Testing, RCA, Predictive Modeling |
+### Analytics & Programming
+- Python (Pandas, NumPy, Scikit-learn)  
+- SQL  
+- JavaScript (Basic)  
+
+### Business Intelligence & Visualization
+- Power BI  
+- Tableau  
+- Plotly  
+- Matplotlib & Seaborn  
+
+### Machine Learning & AI
+- Predictive Modeling  
+- Feature Engineering  
+- XGBoost  
+- TensorFlow & PyTorch (Foundational)  
+- Statistical Analysis & A/B Testing  
+
+### LLM & Applied AI
+- OpenAI API  
+- LangChain  
+- Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- Multi-Agent AI Workflows  
+
+### Databases & Cloud
+- MySQL  
+- PostgreSQL  
+- Snowflake  
+- MongoDB  
+- Google Cloud Platform (Learning)  
+
+### Tools
+- Git  
+- Jupyter Notebook  
+- Streamlit  
+- Docker (Learning)  
 
 ---
 
-## Featured Projects
-
-### 1. **Employee Burnout Detection & Prevention Agent**
-*Multi-Agent Enterprise AI System | LLM + Data Science + Business Intelligence*
-
-A sophisticated enterprise system that detects employee burnout risk using machine learning, generates personalized interventions via LLMs, and provides actionable HR insights.
-
-- **What it does:** Analyzes 9+ employee wellness indicators → predicts burnout risk (85-92% accuracy) → generates personalized messages for employees, HR, and managers → interactive dashboard for decision-making
-- **Tech Stack:** Python, Pandas, scikit-learn, LangChain, Google Generative AI, Plotly, Streamlit
-- **Key Achievement:** Identified 47% of employees at risk and recommended 300+ targeted interventions
-- **[View on Kaggle →](https://www.kaggle.com/code/roge29/employee-burnout-agent)**
-
-**Why this project matters:** Shows I can build end-to-end AI solutions that go beyond modeling—from data engineering → ML → LLM integration → business insights → user interface.
+# Featured Projects
 
 ---
 
-### 2. **Customer Churn Prediction & Analysis**
-*Predictive Analytics | Classification Model | Business Impact*
+## Enterprise Analytics Portfolio
+🔗 [Data Analyst Portfolio](https://github.com/Rohith-Geddam/Data-Analyst-Portfolio)
 
-[Add description of your churn project if you have one, or this will be created soon]
+A collection of end-to-end analytics projects simulating real-world business workflows across finance, marketing, fintech, and risk domains.
 
-- **Impact:** Help businesses identify at-risk customers and take retention actions
-- **Skills:** Feature engineering, model comparison, business interpretation
-
----
-
-### 3. **[Your Third Project - Data Cleaning/EDA Project]**
-[To be added]
-
----
-
-## Education & Certifications
-
-- **Degree:** Mechanical Engineering (B.Tech/B.E.)
-- **Current Focus:** Self-learning in Data Science, Machine Learning, and Generative AI
-- **Kaggle:** Actively participating in competitions and building data science projects
-- **Key Courses:** Data Analytics, Machine Learning, Python for Data Science, LLM Applications
-
-*Note: I believe in continuous learning and hands-on project experience. My GitHub reflects my journey and growth.*
+### Analytics Pipeline Demonstrated
+Raw Data  
+→ Data Cleaning & SQL Transformation  
+→ Business Analysis  
+→ Executive Dashboards  
+→ Strategic Recommendations  
 
 ---
 
-## What I'm Working On
-
-- Advanced **multi-agent AI systems** with LangChain and function calling
-- Building **end-to-end data pipelines** (data ingestion → processing → ML → insights)
-- Exploring **RAG (Retrieval-Augmented Generation)** for enterprise knowledge systems
-- Deploying models to **Google Cloud Platform** and learning Docker containerization
-- Contributing to **open-source** projects in data science and AI
+### Fintech Subscription Retention & LTV Optimization
+- Built churn analytics models and KPI dashboards to identify revenue risk drivers  
+- Designed retention strategy insights using customer segmentation and cohort analysis  
 
 ---
 
-## Let's Connect!
-
-I'm passionate about:
-- Solving real-world problems with data and AI
-- Collaborating with data enthusiasts and engineers
-- Sharing knowledge through documentation and blogs
-- Mentoring others transitioning into data science
-
-**Reach me at:**
--  LinkedIn: [https://www.linkedin.com/in/rohith-geddam-035a16252](https://www.linkedin.com/in/rohith-geddam-035a16252)
--  Kaggle: [https://www.kaggle.com/roge29](https://www.kaggle.com/roge29)
+### Investment Performance Monitor
+- Developed risk-adjusted portfolio analytics using volatility and Sharpe ratio metrics  
+- Built executive dashboards for performance monitoring and reporting  
 
 ---
 
-## Open to Opportunities
-
-**Looking for:** Data Analyst, Data Scientist, ML Engineer, or AI/Gen AI Engineer roles
-
-**Interested in:** Building intelligent systems, predictive models, analytics platforms, and AI-powered solutions that create tangible business impact.
+### Marketing ROI & Budget Reallocation Analysis
+- Calculated blended marketing ROI across channels  
+- Identified budget reallocation opportunities improving overall ROI efficiency  
 
 ---
 
-## Fun Fact
-
-I went from designing mechanical systems to designing intelligent AI systems. If I can apply engineering thinking to data problems, why not leverage AI to solve business challenges? 
-
-That's the philosophy behind everything I build.
+### Risk Modelling & Cost Concentration Analysis
+- Performed Pareto risk analysis identifying cost concentration patterns  
+- Estimated multi-million cost-reduction opportunities using data-driven prioritization  
 
 ---
+
+### Skills Demonstrated
+- SQL-based data cleaning & aggregation  
+- Financial KPI design & validation  
+- Executive Power BI dashboard development  
+- Business recommendation storytelling  
+
+---
+
+## Employee Burnout Detection & Prevention Agent
+🔗 [View Project on Kaggle](https://www.kaggle.com/code/roge29/employee-burnout-agent)
+
+A multi-agent AI analytics system designed to detect employee burnout risk and generate personalized intervention recommendations.
+
+### What It Does
+- Analyzes 9+ employee wellness indicators  
+- Predicts burnout risk with **85-92% classification accuracy**  
+- Generates tailored recommendations for employees, HR teams, and managers  
+- Provides interactive dashboards for workforce risk monitoring  
+
+### Tech Stack
+Python | Scikit-learn | LangChain | Google Generative AI | Plotly | Streamlit  
+
+### Business Value
+Demonstrates ability to build complete AI analytics workflows combining:
+Data Engineering → Machine Learning → LLM Integration → Dashboard Insights  
+
+---
+
+# Education & Certifications
+
+### Education
+Bachelor of Technology – Mechanical Engineering  
+
+### Certifications & Learning
+- Data Analytics & Machine Learning Specializations  
+- Generative AI & LLM Application Development  
+- Active Kaggle participation and project development  
+
+I focus heavily on **hands-on project learning and continuous skill development**.
+
+---
+
+# What I'm Currently Exploring
+
+- Multi-Agent AI analytics systems  
+- Retrieval-Augmented Generation (RAG) for enterprise knowledge platforms  
+- End-to-end data pipeline development  
+- Cloud deployment using Google Cloud Platform  
+- Containerization using Docker  
+- Open-source contributions in data science & AI  
+
+---
+
+# Let's Connect
+
+I enjoy collaborating on analytics, AI, and data-driven product development.
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/rohith-geddam-035a16252  
+
+📊 Kaggle  
+https://www.kaggle.com/roge29  
+
+---
+
+# Open to Opportunities
+
+### Primary Interest
+- Data Analyst  
+- Business / Product Analytics Roles  
+
+### Secondary Interest
+- Applied Machine Learning  
+- AI-Driven Analytics Systems  
+
+I enjoy building analytics platforms and intelligent decision-support systems that create measurable business outcomes.
+
+---
+
+# Fun Fact
+
+I transitioned from designing mechanical systems to designing intelligent analytics and AI systems. I apply engineering thinking to data problems — combining structure, logic, and innovation in everything I build.
